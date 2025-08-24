@@ -4,5 +4,5 @@ Telegram bot for throwing dice <a href="https://t.me/lucy_dice_bot">Lucy</a>, ra
 
 <img src="https://github.com/boy4ik7/dice-bot-esp/blob/main/web_screen.png?raw=true" width="400">
 
-#### libraries that were used: <a href="">FastBot2</a>
+#### Libraries that were used: <a href="https://github.com/boy4ik7/dice-bot-esp/blob/main/platformio.ini">platformio.ini</a>
 
